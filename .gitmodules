@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "gawdis"]
+	path = gawdis
+	url = https://github.com/pavel-fibich/gawdis
+	shallow = true
+	registered = true
+[submodule "TRADER"]
+	path = TRADER
+	url = https://github.com/pavel-fibich/trader
+	shallow = true
+	registered = true

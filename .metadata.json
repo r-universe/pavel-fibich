@@ -1,0 +1,10 @@
+[
+  {
+    "package": "gawdis",
+    "oncran": true
+  },
+  {
+    "package": "TRADER",
+    "oncran": true
+  }
+]
